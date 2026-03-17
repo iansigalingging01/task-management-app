@@ -4,3 +4,4 @@ Features: Login, Register
 Create Task Feature
 Update UI
 Fix bug
+Improve login system
